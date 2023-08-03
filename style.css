@@ -1,0 +1,61 @@
+h1 {
+    font-size: 150px;
+}
+
+.content {
+    margin: 10px 30px 10px 35px;
+}
+
+#does {
+    margin-left: 20px;
+}
+
+#does a {
+    font-size: 48px;
+    line-height: 1;
+    color: black;
+    font-weight: 700;
+    font-family: Archivo, sans-serif;
+    letter-spacing: -.025em;
+}
+
+#does p {
+    font-size: 9px;
+    line-height: 2;
+
+}
+
+#does small i:hover {
+    color: blue;
+}
+
+.seperator {
+    border-top: 1px solid gray;
+    margin: 30px 0px;
+    opacity: 0.4;
+}
+
+.news span {
+    padding: 0px 20px 0px 0px;
+}
+
+#news {
+    display: flex;
+    flex-direction: column;
+}
+
+#news h5 {
+    font-size: 11px;
+}
+
+
+#news p {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1;
+}
+#news b {
+    font-size: 10px;
+}
+
+.stories {}
